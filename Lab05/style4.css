@@ -1,0 +1,58 @@
+
+h1, h2, h3, h4, h5, h6{
+	font-weight: bolder;
+
+}
+h1, h2{
+	font-weight: bolder;
+	text-align: center;
+}
+
+#content-box{
+	margin: 2em;
+	padding: 2em;
+	background-color: rgb(255, 255, 255);
+}
+
+body{
+	background-color: rgb(255, 255, 255);
+}
+
+
+
+.material_card{
+	background: #ffffff;
+	padding: 10px;
+	border-radius: 2px;
+	display: block;
+	margin: 1rem;
+	box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.19);
+}
+.material_card:hover{
+	box-shadow: 0px 2px 2px 2px rgba(0,0,0,0.19);
+}
+
+.material_button{
+	width: 150px;
+	border-radius: 2px;
+	margin: 1rem;
+	box-shadow: 0px 1px 1px 1px rgba(0,0,0,0.19);
+}
+.material_button:hover{
+	box-shadow: 0px 2px 2px 2px rgba(0,0,0,0.19);
+}
+
+
+.color_field{
+	width: 30px;
+}
+
+td{
+	padding: 30px;
+	text-align: center;
+}
+
+#drake_card{
+	border-style: solid;
+	border-width: 0px;
+}
